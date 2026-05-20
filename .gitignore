@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sensitive Environment Variables (CRITICAL: Do not push API keys to GitHub!)
+.env
+
+# OS files
+.DS_Store
