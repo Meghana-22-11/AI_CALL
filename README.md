@@ -125,8 +125,8 @@ AI-Sales-Calling-Agent/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/meghana-22-11/AI-CALL.git
-cd AI-Sales-Calling-Agent
+git clone https://github.com/Meghana-22-11/AI_CALL.git
+cd AI-CALL
 ```
 
 **2. Create and activate a virtual environment**
