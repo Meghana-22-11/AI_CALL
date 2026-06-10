@@ -36,7 +36,7 @@
     "booking_status": "confirmed"
   },
   {
-    "student_phone": "+919876543211",
+    "student_phone": "+91983343211",
     "course_name": "Python Full Stack",
     "demo_date": "Tuesday",
     "demo_time": "2:00 PM",
@@ -56,7 +56,7 @@
   },
   {
     "student_name": "my name is Ajay",
-    "student_phone": "8499 054207",
+    "student_phone": "345667888",
     "course_name": "Python Full Stack",
     "demo_date": "Monday",
     "demo_time": "10:00 AM",
@@ -66,7 +66,7 @@
   },
   {
     "student_name": "name Geeta",
-    "student_phone": "799749 6063",
+    "student_phone": "677888888",
     "course_name": "Java Full Stack",
     "demo_date": "Friday",
     "demo_time": "10:00 AM",
@@ -76,7 +76,7 @@
   },
   {
     "student_name": "Anjali",
-    "student_phone": "799 749 6063",
+    "student_phone": "3456778",
     "course_name": "Python Full Stack",
     "demo_date": "Friday",
     "demo_time": "10:00 AM",
@@ -86,7 +86,7 @@
   },
   {
     "student_name": "June 15",
-    "student_phone": "63033 854 56",
+    "student_phone": "1233445",
     "course_name": "Python Full Stack",
     "demo_date": "Monday",
     "demo_time": "4:00 PM",
